@@ -90,7 +90,7 @@ tripple_points=(
   if brick.special_effect is not None:
     # Reset previous effect if any
     if self.reset_effect is not None:
-        self.reset_effect(self)
+        self.reset_effect(self);
          self.reset_effect(self);
 
 
