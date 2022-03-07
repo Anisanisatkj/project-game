@@ -3,8 +3,8 @@ hello game nisa
 tambah
 2 tambah 
 def __init__(self
-caption, 
-                 width, 
+caption,
+ width, 
                  height, 
 back_image_filename, 
                  frame_rate):
