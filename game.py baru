@@ -2,10 +2,10 @@ hello game python
 hello game nisa 
 def __init__(self
 caption, 
-                 width, 
-                 height, 
+width, 
+height, 
 back_image_filename, 
-                 frame_rate):
+frame_rate):
       ...
  self.game_over = False
  def run(self)
