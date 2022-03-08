@@ -1,5 +1,5 @@
-hello game python 
-hello game nisatkj
+print ("hello game python")
+print ("hello game nisatkj")
 def __init__(self
 caption, 
 width, 
