@@ -1,6 +1,6 @@
 print ("hello game python")
 print ("hello game nisatkj")
-def __init__(self
+def __init__(self,
 caption, 
 width, 
 height, 
